@@ -60,14 +60,14 @@ background: #00b351;
 .postagem-menu-ico2{
 	content:url(http://i1376.photobucket.com/albums/ah13/TheRealPiu/img_zpsbahqwnli.png);
     /* vertical-align: -webkit-baseline-middle; */
-    margin-left: -3px;
+    margin-left: -3.5px;
     /* margin-top: -11px; */
     height: 45px;
 }
 .postagem-menu-ico1{
 	content:url(http://i1376.photobucket.com/albums/ah13/TheRealPiu/img2_zpsx7xqjpgr.png);
 	/* vertical-align: middle; */
-    margin-right: -3px;
+    margin-right: -3.5px;
     /* margin-top: -11px; */
     height: 45px;
 }
